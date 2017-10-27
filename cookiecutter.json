@@ -1,8 +1,8 @@
 {
     "project_name": "Project Name",
     "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_') }}",
-    "author_name": "Daniel Roy Greenfeld",
-    "email": "you@example.com",
+    "author_name": "Roger Boardman",
+    "email": "roger@bxthree.com",
     "description": "A short description of the project.",
     "domain_name": "example.com",
     "version": "0.1.0",
